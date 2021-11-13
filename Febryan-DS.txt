@@ -1,0 +1,4 @@
+Paham konsep Python dan Pengaplikasiannya
+Paham konsep R dan penggunaannya
+Paham konsep Machine Learning 
+Connecting the Dots 
