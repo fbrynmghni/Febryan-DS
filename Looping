@@ -10,6 +10,8 @@ for (i in 1:22) {
   cat(" ")
 }
 
+Output: 3   6   9   12   15   18   21 
+
 # Soal 2: Buat sebuah function di R untuk mengecek apakah sebuah angka merupakan bilangan prima atau bukan.
 
 # The Code
