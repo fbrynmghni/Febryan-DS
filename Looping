@@ -1,0 +1,12 @@
+#Soal 1: Print out integers which are multiples of 3 from 1 to 22.
+#(Print out bilangan bulat yang merupakan kelipatan 3 dari 1 sampai 22).
+#Ekspektasi jawaban: Ketika kode kalian di-run, muncul angka-angka: 3, 9, 12, 15, 18, 21. Gunakan looping
+
+#The Code
+for (i in 1:22) {
+  if (i %% 3 == 0){
+    cat(i)
+  }
+  cat(" ")
+}
+
