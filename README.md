@@ -1,2 +1,2 @@
 # Febryan Data Science
-Perjalanan selama BootCamp DS Dibimbing 
+Perjalanan selama BootCamp Data Science oleh Dibimbing 
